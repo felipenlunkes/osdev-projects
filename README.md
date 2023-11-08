@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/license/felipenlunkes/osdev.svg)
-![](https://img.shields.io/github/stars/felipenlunkes/osdev.svg)
-![](https://img.shields.io/github/issues/felipenlunkes/osdev.svg)
-![](https://img.shields.io/github/issues-closed/felipenlunkes/osdev.svg)
-![](https://img.shields.io/github/issues-pr/felipenlunkes/osdev.svg)
-![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/osdev.svg)
-[![](https://img.shields.io/twitter/follow/felipeldev.svg?style=social&label=Follow%20%40felipeldev)](https://twitter.com/felipeldev)
+![](https://img.shields.io/github/license/felipenlunkes/osdev-projects.svg)
+![](https://img.shields.io/github/stars/felipenlunkes/osdev-projects.svg)
+![](https://img.shields.io/github/issues/felipenlunkes/osdev-projects.svg)
+![](https://img.shields.io/github/issues-closed/felipenlunkes/osdev-projects.svg)
+![](https://img.shields.io/github/issues-pr/felipenlunkes/osdev-projects.svg)
+![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/osdev-projects.svg)
+[![](https://img.shields.io/twitter/follow/felipeldev.svg?style=social&label=Follow%20%40fmlunx)](https://twitter.com/fmlunx)
 
 </div>
 
