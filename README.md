@@ -20,7 +20,7 @@
 
 <div align="justify">
 
-This repository aims to count and list the open source operating system projects in activity.
+This repository aims to count and list the open source and historical operating system projects.
 
 </div>
 
