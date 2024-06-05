@@ -22,6 +22,8 @@
 
 This repository aims to count and list the open source and historical operating system projects.
 
+> For more information and documentation on historical and current (commercial) operating systems and on operating system design and implementation, visit the [osdev](https://github.com/felipenlunkes/osdev) repository.
+
 </div>
 
 <hr>
