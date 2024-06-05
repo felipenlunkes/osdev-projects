@@ -371,7 +371,7 @@ In this session, the projects were separated by the main programming language us
 |[Everest OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
 |[HelloOS](https://github.com/kbu1564/HelloOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/kbu1564/HelloOS.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
-|[KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development)|Assembly|x64|Other|Yes|Yes|![](https://img.shields.io/github/license/FrancisBFTC/KiddieOS_Development.svg)|
+|[KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development)|Assembly|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/FrancisBFTC/KiddieOS_Development.svg)|
 |[KnightOS](https://github.com/KnightOS/KnightOS)|Assembly|Texas Instruments Calculators|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/KnightOS/KnightOS.svg)|
 |[Kolibri OS](http://www.kolibrios.org/)|Assembly|x86|Other|No|Yes|GPLv2|
 |[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
