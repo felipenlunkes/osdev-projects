@@ -302,6 +302,7 @@ In this session, the projects were separated by the operating system family to w
 * [YaxOS](https://gitlab.com/SopaXorzTaker/yaxos)
 * [ZealOS](https://github.com/Zeal-Operating-System/ZealOS)
 * [Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)
+* [KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development)
 
 </details>
 
@@ -389,6 +390,7 @@ In this session, the projects were separated by the main programming language us
 |[Unix-like](https://github.com/MaoKo/Unix-Like)|Assembly|x86|Unix-like|Yes|Yes|MIT license|
 |[xOS](https://github.com/BrownieOS/xOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/BrownieOS/xOS.svg)|
 |[Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|Assembly|Z80|Other|Yes|Yes|![](https://img.shields.io/github/license/Zeal8bit/Zeal-8-bit-OS.svg)|
+|[KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development)|Assembly|x64|Other|Yes|Yes| Without license |
 
 </div>
 
