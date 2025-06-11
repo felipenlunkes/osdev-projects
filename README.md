@@ -485,7 +485,6 @@ In this session, the projects were separated by the main programming language us
 |[Nano16](https://github.com/NANO-DEV/NANO-S16)|C|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S16.svg)|
 |[Nano32](https://github.com/NANO-DEV/NANO-S32)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S32.svg)|
 |[NanoShellOS](https://github.com/iProgramMC/NanoShellOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/iProgramMC/NanoShellOS.svg)|
-|[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)|C|x86|DOS|Yes|No|![](https://img.shields.io/github/license/clementtttttttt/NetDOS-32.svg)|
 |[NexNix](https://github.com/nexos-dev/nexnix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nexos-dev/nexnix.svg)|
 |[NewOS](https://github.com/travisg/newos)|C|x86|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/travisg/newos.svg)|
@@ -648,6 +647,7 @@ In this session, the projects were separated by the main programming language us
 |[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aura.svg)|
 |[eduOS-rs](https://github.com/RWTH-OS/eduOS-rs)|Rust|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/RWTH-OS/eduOS-rs.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
+|[Nanvix](https://github.com/nanvix/nanvix)|Rust|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
 |[The Stupid Operating System](https://github.com/sos-os/kernel)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/sos-os/kernel.svg)|
