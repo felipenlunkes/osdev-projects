@@ -75,6 +75,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="Unix-like" align='left'>
 <summary align='left'>Unix-like</summary>
+<br>
 
 * [The Apollo Project](https://github.com/primis/Apollo)
 * [aquaBSD](https://github.com/inobulles/aquabsd-core)
@@ -132,6 +133,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="DOS (Disk Operating System)" align='left'>
 <summary align='left'>DOS (Disk Operating System)</summary>
+<br>
 
 * [AtieDOS](https://github.com/AtieP/AtieDOS)
 * [FreeDOS](http://www.freedos.org/)
@@ -148,6 +150,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="Windows and Windows-like" align='left'>
 <summary align='left'>Windows and Windows-like</summary>
+<br>
 
 * [ReactOS](http://www.reactos.com/)
 
@@ -155,6 +158,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="BeOS-like" align='left'>
 <summary align='left'>BeOS-like</summary>
+<br>
 
 * [Haiku](https://github.com/GreenteaOS)
 * [NewOS](https://github.com/travisg/newos)
@@ -163,6 +167,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="Other (original design)" align='left'>
 <summary align='left'>Other (original design)</summary>
+<br>
 
 * [ackOS](https://github.com/ackOS-project/ackOS)
 * [Alotware](https://github.com/0x5CE/alotware)
@@ -305,6 +310,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="Mainframe OS" align='left'>
 <summary align='left'>Mainframe OS</summary>
+<br>
 
 * [MVS/380](https://sourceforge.net/projects/mvs380/)
 * [uDOS](https://github.com/SuperLeaf1995/uDOS)
