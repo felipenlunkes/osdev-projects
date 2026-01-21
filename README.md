@@ -54,7 +54,6 @@ In this session, the projects were separated by the operating system family to w
 <div align="justify">
 
 <details title="UNIX and direct descendants" align='left'>
-<br>
 <summary align='left'>UNIX and direct descendants</summary>
 
 * [Version 1 to Version 7 UNIX](https://github.com/dspinellis/unix-history-repo)
@@ -74,7 +73,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="Unix-like" align='left'>
-<br>
 <summary align='left'>Unix-like</summary>
 
 * [The Apollo Project](https://github.com/primis/Apollo)
@@ -132,7 +130,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
-<br>
 <summary align='left'>DOS (Disk Operating System)</summary>
 
 * [AtieDOS](https://github.com/AtieP/AtieDOS)
@@ -149,7 +146,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="Windows and Windows-like" align='left'>
-<br>
 <summary align='left'>Windows and Windows-like</summary>
 
 * [ReactOS](http://www.reactos.com/)
@@ -157,7 +153,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="BeOS-like" align='left'>
-<br>
 <summary align='left'>BeOS-like</summary>
 
 * [Haiku](https://github.com/GreenteaOS)
@@ -166,7 +161,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="Other (original design)" align='left'>
-<br>
 <summary align='left'>Other (original design)</summary>
 
 * [ackOS](https://github.com/ackOS-project/ackOS)
@@ -309,7 +303,6 @@ In this session, the projects were separated by the operating system family to w
 </details>
 
 <details title="Mainframe OS" align='left'>
-<br>
 <summary align='left'>Mainframe OS</summary>
 
 * [MVS/380](https://sourceforge.net/projects/mvs380/)
