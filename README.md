@@ -55,6 +55,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="UNIX and direct descendants" align='left'>
 <summary align='left'>UNIX and direct descendants</summary>
+<br>
 
 * [Version 1 to Version 7 UNIX](https://github.com/dspinellis/unix-history-repo)
 * [Version 10 UNIX](https://github.com/Alhadis/Research-Unix-v10)
