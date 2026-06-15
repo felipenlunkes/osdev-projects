@@ -112,6 +112,7 @@ In this session, the projects were separated by the operating system family to w
 * [qword-OS](https://github.com/qword-os/qword)
 * [SeaOS](https://github.com/dbittman/seakernel)
 * [SerenityOS](https://github.com/SerenityOS/serenity)
+* [SimpleOS](https://github.com/zacharyr0th/SimpleOS)
 * [Sortix](https://sortix.org/)
 * [Soso](https://github.com/ozkl/soso)
 * [Tilck](https://github.com/vvaltchev/tilck)
@@ -507,6 +508,7 @@ In this session, the projects were separated by the main programming language us
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
 |[SerpaeOS](https://serpaeos.sourceforge.io/)|C|x86|Other|No|Yes|GPLv3|
 |[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
+|[SimpleOS (zacharyr0th)](https://github.com/zacharyr0th/SimpleOS)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/zacharyr0th/SimpleOS.svg)|
 |[SnowflakeOS](https://github.com/29jm/SnowflakeOS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/29jm/SnowflakeOS.svg)|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
