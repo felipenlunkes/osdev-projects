@@ -172,6 +172,7 @@ In this session, the projects were separated by the operating system family to w
 * [ackOS](https://github.com/ackOS-project/ackOS)
 * [Alotware](https://github.com/0x5CE/alotware)
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
+* [AssilOS](https://github.com/assilassilkerr-boop/AssilOS)
 * [Asuro](https://www.spexeah.com/index.php/asuro/)
 * [Aura](https://github.com/projectasiago/aura)
 * [AwooOS](https://github.com/awooos/awooos)
@@ -186,6 +187,7 @@ In this session, the projects were separated by the operating system family to w
 * [BleskOS](https://github.com/Klaykap/BleskOS)
 * [BlueKernel](http://www.bluekernel.com.au/)
 * [BoneOS](https://github.com/Bone-Project/BoneOS)
+* [bootOS](https://github.com/nanochess/BootOS)
 * [Carbon](https://github.com/davidaylaian/carbon)
 * [ChaiOS](https://github.com/ChaiSoft/ChaiOS)
 * [Cloudium OS](https://sourceforge.net/projects/cloudium-os/)
@@ -349,8 +351,8 @@ In this session, the projects were separated by the main programming language us
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
 [![D](https://img.shields.io/badge/D-B7472A?style=for-the-badge&logo=D&logoColor=white)](#d)
 [![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#swift)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#swift)
 
 </div>
 
@@ -363,11 +365,13 @@ In this session, the projects were separated by the main programming language us
 |[Version 1 to Version 7 UNIX](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[UNIX PDP-7](https://github.com/asegid/pdp7-unix)|Assembly|PDP-7|Unix|Yes|No|![](https://img.shields.io/github/license/asegid/pdp7-unix.svg)|
 |[Alotware](https://github.com/0x5CE/alotware)|Assembly|x86|Other|Yes|No|Public domain|
+|[AssilOS](https://github.com/assilassilkerr-boop/AssilOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/assilassilkerr-boop/AssilOS.svg)|
 |[AtieDOS](https://github.com/AtieP/AtieDOS)|Assembly|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/AtieP/AtieDOS.svg)|
 |[azOS](https://github.com/azarovalex/azOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/azarovalex/azOS.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[Bin S.O](https://github.com/felipenlunkes/Bin-S.O)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/Bin-S.O.svg)|
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
+|[bootOS](https://github.com/nanochess/BootOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/nanochess/BootOS.svg)|
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknown|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
 |[Everest OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
@@ -626,18 +630,6 @@ In this session, the projects were separated by the main programming language us
 
 - [x] [Go up](#os-projects-sorted-by-language)
 
-### Swift
-
-<div align="center">
-
-| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
-|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[BetaOS](https://github.com/admkopec/BetaOS)|Swift, C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
-
-</div>
-
-- [x] [Go up](#os-projects-sorted-by-language)
-
 ### Rust
 
 <div align="center">
@@ -652,6 +644,18 @@ In this session, the projects were separated by the main programming language us
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
 |[The Stupid Operating System](https://github.com/sos-os/kernel)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/sos-os/kernel.svg)|
 |[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
+
+</div>
+
+- [x] [Go up](#os-projects-sorted-by-language)
+
+### Swift
+
+<div align="center">
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[BetaOS](https://github.com/admkopec/BetaOS)|Swift, C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
 
 </div>
 
