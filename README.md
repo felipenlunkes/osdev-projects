@@ -510,7 +510,7 @@ In this session, the projects were separated by the main programming language us
 |[SeaOS](https://github.com/dbittman/seakernel)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/dbittman/seakernel.svg)|
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
 |[SerpaeOS](https://serpaeos.sourceforge.io/)|C|x86|Other|No|Yes|GPLv3|
-|[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
+|[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|No|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
 |[SnowflakeOS](https://github.com/29jm/SnowflakeOS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/29jm/SnowflakeOS.svg)|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
